@@ -1,5 +1,6 @@
 milk x4
 chocolate x3
 bananas x5
-spaghetti x2
+macaroni x2
 cheese x1
+chicken x1
