@@ -1,5 +1,5 @@
 milk x4
-chocolate x3
+chocolate x6
 bananas x5
 spaghetti x2
 cheese x1
