@@ -1,0 +1,93 @@
+commit 9493c74e81fd0938c189e6546ced65bf5be57d57 (HEAD -> master, branch2, branch1)
+
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:52:48 2022 +0200
+
+    Add quatities to the items
+
+commit 4fb4675466dafd71790cdc5476cc98c08e5aa063
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:51:49 2022 +0200
+
+    Add 5 items to shopping list
+
+commit 9dbd9c5e96109dcbf65f47b147357ac36b7e6392 (origin/master, origin/HEAD)
+Author: anapet <75138404+anapet@users.noreply.github.com>
+Date:   Thu Apr 7 15:40:50 2022 +0200
+
+    Update README.md
+
+commit e3664c4158589753e48220cbe1db1167507f2ec3
+Author: anapet <75138404+anapet@users.noreply.github.com>
+Date:   Thu Apr 7 15:40:33 2022 +0200
+
+    Initial commit
+
+commit 9a22af235c946dd9960b8c259c1ba50548e08b56 (HEAD -> branch2)
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 16:00:03 2022 +0200
+
+    Modify item #4
+
+commit 9493c74e81fd0938c189e6546ced65bf5be57d57
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:52:48 2022 +0200
+
+    Add quatities to the items
+
+commit 4fb4675466dafd71790cdc5476cc98c08e5aa063
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:51:49 2022 +0200
+
+    Add 5 items to shopping list
+
+commit 9dbd9c5e96109dcbf65f47b147357ac36b7e6392
+Author: anapet <75138404+anapet@users.noreply.github.com>
+Date:   Thu Apr 7 15:40:50 2022 +0200
+
+    Update README.md
+commit 22d067a1e77dae2f8e92b51796f9f670dc8d403a (HEAD -> branch2)
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 16:00:03 2022 +0200
+
+    Modify item #4 and add item #6
+
+commit 9493c74e81fd0938c189e6546ced65bf5be57d57
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:52:48 2022 +0200
+
+    Add quatities to the items
+
+commit 4fb4675466dafd71790cdc5476cc98c08e5aa063
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 15:51:49 2022 +0200
+
+    Add 5 items to shopping list
+
+commit 9dbd9c5e96109dcbf65f47b147357ac36b7e6392
+Author: anapet <75138404+anapet@users.noreply.github.com>
+Date:   Thu Apr 7 15:40:50 2022 +0200
+
+    Update README.md
+commit fcb0becf022a736f671211a86435224fca130ce6 (HEAD -> master, origin/master, origin/HEAD)
+Merge: 54d657d 5fc4ef0
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 16:19:36 2022 +0200
+
+    shopping_list merged
+
+commit 54d657ddb90530b8b2a2b99cd60a524bdbfe8ad1
+Merge: 74ae923 e396a6a
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 16:08:35 2022 +0200
+
+    Merge branch 'branch1'
+    It says so in the lab
+
+commit 5fc4ef0ea4ecf3427d448d05f87bb2c8873cfc76 (branch2)
+Author: Ana Petreska <anapetreska1@gmail.com>
+Date:   Thu Apr 7 16:00:03 2022 +0200
+
+    MOdify item #4 and add item #6
+
+commit 74ae92366f2a90542e06d1a25969e72e2523c837
