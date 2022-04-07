@@ -1,5 +1,11 @@
 milk x4
 chocolate x6
 bananas x5
+<<<<<<< HEAD
 spaghetti x2
 cheese x3
+=======
+macaroni x2
+cheese x1
+chicken x1
+>>>>>>> branch2
